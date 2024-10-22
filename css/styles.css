@@ -113,6 +113,11 @@ color: #434455;
     letter-spacing: 0.02em;
     color: #404bbf;
 }
+
+
+/* main */
+
+
 .section-main{
 background-color: #2e2f42;
 }
@@ -123,6 +128,9 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+padding-top: 188px;
+max-width: 700px;
+margin: auto;
 }
 .section-main-buttom {
 font-family: inherit;
@@ -133,7 +141,13 @@ letter-spacing: 0.04em;
 color: #fff;
 cursor: pointer;
 background-color: #4D5AE5;
+margin: auto;
+margin-top: 48px;
+display: block;
+border-radius: 4px;
+padding: 16px 32px;
 }
+
 .section-main-buttom:hover,
 .section-main-buttom:focus{
 background: #404bbf;
